@@ -4,7 +4,7 @@ Aplicação web para gerenciamento de agendamentos, desenvolvida com React, Type
 
 ## Aplicação em produção
 
-[Acessar o sistema](https://agendamentos-frontend-fkxd.onrender.com)
+[Acessar o sistema](https://agendamentos-frontend-fkzd.onrender.com/)
 
 ## Tecnologias
 
